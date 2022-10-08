@@ -1,0 +1,11 @@
+echo "# Building-a-Blog-with-FastAPI-MySQL-SQLAlchemy-and-Alembic" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Guy-Sylvestre/Building-a-Blog-with-FastAPI-MySQL-SQLAlchemy-and-Alembic.git
+git push -u origin master
+
+git remote add origin https://github.com/Guy-Sylvestre/Building-a-Blog-with-FastAPI-MySQL-SQLAlchemy-and-Alembic.git
+git branch -M master
+git push -u origin master
